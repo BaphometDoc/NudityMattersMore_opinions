@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <NMMO_Tab_General>一般</NMMO_Tab_General>
+  <NMMO_Tab_Interactions>互動</NMMO_Tab_Interactions>
+  <NMMO_Generator_Header>NMM 意見生成器設定</NMMO_Generator_Header>
+  <NMMO_Generator_Enable>啟用情境意見生成器</NMMO_Generator_Enable>
+  <NMMO_Generator_EnableDesc>停用後只會顯示預先編寫的意見。預設：啟用。</NMMO_Generator_EnableDesc>
+  <NMMO_Generator_Chance>生成意見機率：{0}%</NMMO_Generator_Chance>
+  <NMMO_Commentary_Header>注視紀錄評論設定</NMMO_Commentary_Header>
+  <NMMO_Commentary_Enable>允許小人評論目擊到的行為</NMMO_Commentary_Enable>
+  <NMMO_Commentary_EnableDesc>允許小人評論自己看見的行為。需要 SpeakUp 模組。預設：啟用。</NMMO_Commentary_EnableDesc>
+  <NMMO_Commentary_Cooldown>評論冷卻時間：{0} 秒</NMMO_Commentary_Cooldown>
+  <NMMO_Commentary_Max>同時顯示的意見上限：{0}</NMMO_Commentary_Max>
+  <NMMO_Commentary_SameState>允許評論處於相同狀態的小人</NMMO_Commentary_SameState>
+  <NMMO_Commentary_SameStateDesc>啟用後，裸體小人也能評論另一名裸體小人等相同狀態。預設：停用。</NMMO_Commentary_SameStateDesc>
+  <NMMO_Commentary_NoSpeakUp>允許小人評論目擊到的行為（未找到 SpeakUp，功能已停用）</NMMO_Commentary_NoSpeakUp>
+  <NMMO_Debug_Header>除錯</NMMO_Debug_Header>
+  <NMMO_Debug_Enable>啟用除錯記錄</NMMO_Debug_Enable>
+  <NMMO_Debug_EnableDesc>在控制台顯示詳細除錯記錄。正常遊玩時建議保持停用。預設：停用。</NMMO_Debug_EnableDesc>
+  <NMMO_Reset>將所有設定恢復為預設值</NMMO_Reset>
+  <NMMO_Problematic_Header>可能產生問題的互動</NMMO_Problematic_Header>
+  <NMMO_Problematic_Warning>啟用這些互動後，其他模組提供的描述可能顯得不自然。</NMMO_Problematic_Warning>
+  <NMMO_Interaction_ToggleDesc>啟用或停用「{0}」互動的評論。</NMMO_Interaction_ToggleDesc>
+  <NMMO_Other_Header>其他評論</NMMO_Other_Header>
+  <NMMO_SettingsCategory>Nudity Matters More：意見</NMMO_SettingsCategory>
+  <NMMO_TabLabel>裸體觀感</NMMO_TabLabel>
+  <NMMO_ObserveSelf>{0}觀察自己</NMMO_ObserveSelf>
+  <NMMO_ObserverToTarget>{0}觀察{1}</NMMO_ObserverToTarget>
+  <NMMO_TargetToObserver>{0}觀察{1}</NMMO_TargetToObserver>
+  <NMMO_NoPawnSelected>尚未選擇小人</NMMO_NoPawnSelected>
+  <NMMO_SelectPawn>選擇小人……</NMMO_SelectPawn>
+  <NMMO_ObserveSelfOption>觀察自己（{0}）</NMMO_ObserveSelfOption>
+  <NMMO_NoPawnsFound>找不到可選擇的小人</NMMO_NoPawnsFound>
+  <NMMO_NoPawnToView>尚未選擇要查看觀感的小人。</NMMO_NoPawnToView>
+  <NMMO_DisplayError>錯誤：無法顯示觀感。觀察者、被觀察者或觀察者的記憶資料遺失。</NMMO_DisplayError>
+  <NMMO_Chest>胸部</NMMO_Chest>
+  <NMMO_Genitals>生殖器</NMMO_Genitals>
+  <NMMO_Anus>肛門</NMMO_Anus>
+  <NMMO_OpinionAboutPart>{0}對{1}的{2}之觀感：</NMMO_OpinionAboutPart>
+  <NMMO_NoOpinionDef>找不到對應的觀感定義</NMMO_NoOpinionDef>
+  <NMMO_NoChestOpinion>   {0}對{1}的胸部／乳頭沒有特別看法。</NMMO_NoChestOpinion>
+  <NMMO_ChestNA>胸部觀感：不適用（未偵測到乳房）</NMMO_ChestNA>
+  <NMMO_NoGenitalsOpinion>生殖器觀感：不適用（未偵測到生殖器）</NMMO_NoGenitalsOpinion>
+  <NMMO_AnusOpinion>{0}對{1}的肛門之觀感：</NMMO_AnusOpinion>
+  <NMMO_AnusNA>肛門觀感：不適用（未偵測到肛門）</NMMO_AnusNA>
+  <NMMO_RenderFuture>裸體小人顯示區域\n（未來功能）</NMMO_RenderFuture>
+  <NMMO_InteractionLog>互動紀錄</NMMO_InteractionLog>
+  <NMMO_Thoughts>想法</NMMO_Thoughts>
+  <NMMO_NoSituational>尚未記錄任何情境觀感。</NMMO_NoSituational>
+  <NMMO_LogObserved>{0}觀察了{1}：</NMMO_LogObserved>
+  <NMMO_LogWasObserved>{0}被{1}觀察：</NMMO_LogWasObserved>
+  <NMMO_Filter_All>全部</NMMO_Filter_All>
+  <NMMO_Filter_Thinking>思考</NMMO_Filter_Thinking>
+  <NMMO_Filter_Experiencing>經歷</NMMO_Filter_Experiencing>
+  <NMMO_Filter_Other>其他</NMMO_Filter_Other>
+  <NMMO_Interaction_Covering>遮掩身體</NMMO_Interaction_Covering>
+  <NMMO_Interaction_Naked>裸體</NMMO_Interaction_Naked>
+  <NMMO_Interaction_Topless>上身赤裸</NMMO_Interaction_Topless>
+  <NMMO_Interaction_Bottomless>下身赤裸</NMMO_Interaction_Bottomless>
+  <NMMO_Interaction_Masturbation>自慰</NMMO_Interaction_Masturbation>
+  <NMMO_Interaction_Sex>性行為</NMMO_Interaction_Sex>
+  <NMMO_Interaction_Rape>性侵</NMMO_Interaction_Rape>
+  <NMMO_Interaction_Raped>遭受性侵</NMMO_Interaction_Raped>
+  <NMMO_Interaction_Shower>淋浴</NMMO_Interaction_Shower>
+  <NMMO_Interaction_Bath>沐浴</NMMO_Interaction_Bath>
+  <NMMO_Interaction_Sauna>三溫暖</NMMO_Interaction_Sauna>
+  <NMMO_Interaction_Swimming>游泳</NMMO_Interaction_Swimming>
+  <NMMO_Interaction_HotTub>泡熱水池</NMMO_Interaction_HotTub>
+  <NMMO_Interaction_NipSlip>乳頭走光</NMMO_Interaction_NipSlip>
+  <NMMO_Interaction_BreastSlip>乳房走光</NMMO_Interaction_BreastSlip>
+  <NMMO_Interaction_AreolaSlip>乳暈走光</NMMO_Interaction_AreolaSlip>
+  <NMMO_Interaction_Biopod>生物艙</NMMO_Interaction_Biopod>
+  <NMMO_Interaction_Changing>更衣</NMMO_Interaction_Changing>
+  <NMMO_Interaction_WetShirt>濕衣</NMMO_Interaction_WetShirt>
+  <NMMO_Interaction_Breastfeed>哺乳</NMMO_Interaction_Breastfeed>
+  <NMMO_Interaction_SelfMilk>自行擠奶</NMMO_Interaction_SelfMilk>
+  <NMMO_Interaction_Milk>擠奶</NMMO_Interaction_Milk>
+  <NMMO_Interaction_MedicalFull>全身醫療檢查</NMMO_Interaction_MedicalFull>
+  <NMMO_Interaction_MedicalTop>上身醫療檢查</NMMO_Interaction_MedicalTop>
+  <NMMO_Interaction_MedicalBottom>下身醫療檢查</NMMO_Interaction_MedicalBottom>
+  <NMMO_Interaction_MedicalFullSelf>自行全身檢查</NMMO_Interaction_MedicalFullSelf>
+  <NMMO_Interaction_MedicalTopSelf>自行檢查上身</NMMO_Interaction_MedicalTopSelf>
+  <NMMO_Interaction_MedicalBottomSelf>自行檢查下身</NMMO_Interaction_MedicalBottomSelf>
+  <NMMO_Interaction_Surgery>手術</NMMO_Interaction_Surgery>
+  <NMMO_Interaction_HumanArtTop>人體藝術（上身）</NMMO_Interaction_HumanArtTop>
+  <NMMO_Interaction_HumanArtBottom>人體藝術（下身）</NMMO_Interaction_HumanArtBottom>
+  <NMMO_Interaction_HumanArtFull>人體藝術（全身）</NMMO_Interaction_HumanArtFull>
+</LanguageData>
