@@ -34,7 +34,10 @@
   <NMMO_NoPawnToView>尚未選擇要查看觀感的小人。</NMMO_NoPawnToView>
   <NMMO_DisplayError>錯誤：無法顯示觀感。觀察者、被觀察者或觀察者的記憶資料遺失。</NMMO_DisplayError>
   <NMMO_Chest>胸部</NMMO_Chest>
+  <NMMO_Breasts>乳房</NMMO_Breasts>
   <NMMO_Genitals>生殖器</NMMO_Genitals>
+  <NMMO_Vagina>陰道</NMMO_Vagina>
+  <NMMO_Penis>陰莖</NMMO_Penis>
   <NMMO_Anus>肛門</NMMO_Anus>
   <NMMO_OpinionAboutPart>{0}對{1}的{2}之觀感：</NMMO_OpinionAboutPart>
   <NMMO_NoOpinionDef>找不到對應的觀感定義</NMMO_NoOpinionDef>
@@ -53,6 +56,9 @@
   <NMMO_Filter_Thinking>思考</NMMO_Filter_Thinking>
   <NMMO_Filter_Experiencing>經歷</NMMO_Filter_Experiencing>
   <NMMO_Filter_Other>其他</NMMO_Filter_Other>
+  <NMMO_Filter_MapColonists>地圖殖民者</NMMO_Filter_MapColonists>
+  <NMMO_Filter_GlobalColonists>所有殖民者</NMMO_Filter_GlobalColonists>
+  <NMMO_Filter_AllRegistered>全部已記錄角色</NMMO_Filter_AllRegistered>
   <NMMO_Interaction_Covering>遮掩身體</NMMO_Interaction_Covering>
   <NMMO_Interaction_Naked>裸體</NMMO_Interaction_Naked>
   <NMMO_Interaction_Topless>上身赤裸</NMMO_Interaction_Topless>
@@ -85,4 +91,64 @@
   <NMMO_Interaction_HumanArtTop>人體藝術（上身）</NMMO_Interaction_HumanArtTop>
   <NMMO_Interaction_HumanArtBottom>人體藝術（下身）</NMMO_Interaction_HumanArtBottom>
   <NMMO_Interaction_HumanArtFull>人體藝術（全身）</NMMO_Interaction_HumanArtFull>
+  <NMMO_FallbackObserver>我注意到{0}正在進行{1}。</NMMO_FallbackObserver>
+  <NMMO_FallbackObserved>我發現{0}看見了我正在進行{1}。</NMMO_FallbackObserved>
+  <NMMO_NamePossessive>{0}的</NMMO_NamePossessive>
+  <NMMO_Gender_Male>男性</NMMO_Gender_Male>
+  <NMMO_Gender_Female>女性</NMMO_Gender_Female>
+  <NMMO_Gender_None>無性</NMMO_Gender_None>
+  <NMMO_Pronoun_Male>他</NMMO_Pronoun_Male>
+  <NMMO_Pronoun_Female>她</NMMO_Pronoun_Female>
+  <NMMO_Pronoun_None>對方</NMMO_Pronoun_None>
+  <NMMO_Possessive_Male>他的</NMMO_Possessive_Male>
+  <NMMO_Possessive_Female>她的</NMMO_Possessive_Female>
+  <NMMO_Possessive_None>對方的</NMMO_Possessive_None>
+  <NMMO_Objective_Male>他</NMMO_Objective_Male>
+  <NMMO_Objective_Female>她</NMMO_Objective_Female>
+  <NMMO_Objective_None>對方</NMMO_Objective_None>
+  <NMMO_None>無</NMMO_None>
+  <NMMO_Unknown>未知</NMMO_Unknown>
+  <NMMO_UnknownKind>未知種類</NMMO_UnknownKind>
+  <NMMO_A_Pawn>一名小人</NMMO_A_Pawn>
+  <NMMO_Pawn>小人</NMMO_Pawn>
+  <NMMO_NA>不適用</NMMO_NA>
+  <NMMO_Size_Tiny>極小</NMMO_Size_Tiny>
+  <NMMO_Size_Small>小</NMMO_Size_Small>
+  <NMMO_Size_Average>中等</NMMO_Size_Average>
+  <NMMO_Size_Large>大</NMMO_Size_Large>
+  <NMMO_Size_Huge>巨大</NMMO_Size_Huge>
+  <NMMO_NeedSex_Any>不限</NMMO_NeedSex_Any>
+  <NMMO_NeedSex_Frustrated>性需求受挫</NMMO_NeedSex_Frustrated>
+  <NMMO_NeedSex_Horny>性慾高漲</NMMO_NeedSex_Horny>
+  <NMMO_NeedSex_Neutral>性需求普通</NMMO_NeedSex_Neutral>
+  <NMMO_NeedSex_Satisfied>性需求滿足</NMMO_NeedSex_Satisfied>
+  <NMMO_NeedSex_Ahegao>極度滿足</NMMO_NeedSex_Ahegao>
+  <NMMO_Genital_Unknown>未知部位</NMMO_Genital_Unknown>
+  <NMMO_Genital_Vagina>陰道</NMMO_Genital_Vagina>
+  <NMMO_Genital_Penis>陰莖</NMMO_Genital_Penis>
+  <NMMO_Genital_Breasts>乳房</NMMO_Genital_Breasts>
+  <NMMO_Genital_Anus>肛門</NMMO_Genital_Anus>
+  <NMMO_Genital_FemaleOvipositor>雌性產卵器</NMMO_Genital_FemaleOvipositor>
+  <NMMO_Genital_MaleOvipositor>雄性產卵器</NMMO_Genital_MaleOvipositor>
+  <NMMO_Nudity_FullyNudeCovering>全裸（遮掩中）</NMMO_Nudity_FullyNudeCovering>
+  <NMMO_Nudity_FullyNude>全裸</NMMO_Nudity_FullyNude>
+  <NMMO_Nudity_BreastsExposed>胸部外露</NMMO_Nudity_BreastsExposed>
+  <NMMO_Nudity_GenitalsExposed>生殖器外露</NMMO_Nudity_GenitalsExposed>
+  <NMMO_Nudity_BreastSlip>乳房走光</NMMO_Nudity_BreastSlip>
+  <NMMO_Nudity_NipSlip>乳頭走光</NMMO_Nudity_NipSlip>
+  <NMMO_Nudity_Clothed>穿著衣物</NMMO_Nudity_Clothed>
+  <NMMO_Nudity_FullyNudeButCovering>全裸，但正遮掩身體</NMMO_Nudity_FullyNudeButCovering>
+  <NMMO_Nudity_ToplessButCovering>上身赤裸，但正遮掩身體</NMMO_Nudity_ToplessButCovering>
+  <NMMO_Nudity_BottomlessButCovering>下身赤裸，但正遮掩身體</NMMO_Nudity_BottomlessButCovering>
+  <NMMO_Nudity_AndCovering>{0}，並正遮掩身體</NMMO_Nudity_AndCovering>
+  <NMMO_Covering>遮掩中</NMMO_Covering>
+  <NMMO_NotCovering>未遮掩</NMMO_NotCovering>
+  <NMMO_RJWInactive>不適用（RJW 未啟用）</NMMO_RJWInactive>
+  <NMMO_NotObserved>尚未觀察。</NMMO_NotObserved>
+  <NMMO_AnusAwaiting>尚未觀察（肛門：等待裸體狀態登記）。</NMMO_AnusAwaiting>
+  <NMMO_UnidentifiableInteraction>發生了一次無法辨識的互動。</NMMO_UnidentifiableInteraction>
+  <NMMO_FromFaction>{0}（來自{1}）</NMMO_FromFaction>
+  <NMMO_Nudity_Nude>裸體</NMMO_Nudity_Nude>
+  <NMMO_I>我</NMMO_I>
+  <NMMO_WasStatus>{0}當時{1}</NMMO_WasStatus>
 </LanguageData>
